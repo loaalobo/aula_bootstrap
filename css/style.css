@@ -1,0 +1,39 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: #d9d9d9;
+}
+
+.quem-somos{
+    background-color: #3c6e71;
+    color:rgb(245, 245, 245);
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #ffffff;
+    color: rgb(87, 87, 87);
+}
+
+.servicos{
+    background-color: #284b63;
+    color:rgb(245, 245, 245);
+}
+
+.bg-footer{
+    background-color: #353535;
+    color: #d9d9d9;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12pt;
+}
+
+.contato{
+    text-decoration: none;
+    color: white;
+}
+
